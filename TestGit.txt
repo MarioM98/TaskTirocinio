@@ -1,0 +1,1 @@
+Sto testando Git da terminale, ho creato questo file tramite comando nul> TestGit.txt all'interno della cartella TaskTirocinio. 
